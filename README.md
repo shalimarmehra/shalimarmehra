@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shalimar Mehra</h1>
 <h3 align="center">A passionate software engineering from India</h3>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
 <p align="left"> <a href="https://twitter.com/shalimarmehra" target="blank"><img src="https://img.shields.io/twitter/follow/shalimarmehra?logo=twitter&style=for-the-badge" alt="shalimarmehra" /></a> </p>
 
