@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shalimarmehra" target="blank"><img src="https://img.shields.io/twitter/follow/shalimarmehra?logo=twitter&style=for-the-badge" alt="shalimarmehra" /></a> </p>
 
-- 💬 Ask me about **✍️ I'm a Shalimar Mehra, New Delhi, India. ✍️ BCA Graduate. Now pursuing.......... ✍️ Also Completed MDCE { Master Diploma in Computer Engineering } from IICS**
+- ✍️ I'm a Shalimar Mehra, New Delhi, India. ✍️ BCA Graduate. Now pursuing.......... ✍️ Also Completed MDCE { Master Diploma in Computer Engineering } from IICS**
 
 - 📫 How to reach me **shalimarmehra1010@gmail.com**
 
