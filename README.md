@@ -1,12 +1,12 @@
 ![logo](https://github.com/shalimarmehra/shalimarmehra/blob/main/small2.jpg)
 <h1 align="center">Hi 👋, I'm Shalimar Mehra</h1>
-<h3 align="center">A passionate software engineering from India</h3>
+<h3 align="center">A Passionate Software Engineering from India</h3>
 
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
 <p align="left"> <a href="https://twitter.com/shalimarmehra" target="blank"><img src="https://img.shields.io/twitter/follow/shalimarmehra?logo=twitter&style=for-the-badge" alt="shalimarmehra" /></a> </p>
 
-- ✍️ I'm a Shalimar Mehra, New Delhi, India. ✍️ BCA Graduate. Now pursuing.......... ✍️ Also Completed MDCE { Master Diploma in Computer Engineering } from IICS**
+- ✍️ I'm a Shalimar Mehra, New Delhi, India. ✍️ BCA Graduate. Now pursuing MCA from IGNOU ( Indra Gandhi National Open University ) ✍️ Also Completed MDCE { Master Diploma in Computer Engineering } from IICS.
 
 - 📫 How to reach me **shalimarmehra1010@gmail.com**
 
