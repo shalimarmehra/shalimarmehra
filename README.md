@@ -1,4 +1,4 @@
-![logo](https://github.com/shalimarmehra/shalimarmehra/blob/main/small%2.jpg)
+![logo](https://github.com/shalimarmehra/shalimarmehra/blob/main/small2.jpg)
 <h1 align="center">Hi 👋, I'm Shalimar Mehra</h1>
 <h3 align="center">A passionate software engineering from India</h3>
 
