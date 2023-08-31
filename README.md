@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/shalimarmehra" target="blank"><img src="https://img.shields.io/twitter/follow/shalimarmehra?logo=twitter&style=for-the-badge" alt="shalimarmehra" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/shalimar-mehra/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-" alt="shalimarmehra" /></a> </p>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+" alt="shalimarmehra" />
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<p align="left"> <a href="https://www.linkedin.com/in/shalimar-mehra/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
 
 
 
