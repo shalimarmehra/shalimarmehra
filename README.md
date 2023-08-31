@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/shalimar-mehra/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 " alt="shalimarmehra" /></a> </p>
 
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
 
