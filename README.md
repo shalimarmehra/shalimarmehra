@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
 <p align="left"> <a href="https://twitter.com/shalimarmehra" target="blank"><img src="https://img.shields.io/twitter/follow/shalimarmehra?logo=twitter&style=for-the-badge" alt="shalimarmehra" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/shalimar-mehra/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/shalimar-mehra/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Follow-linkedin&logoColor=white" /></a> </p>
 
 - ✍️ I'm a Shalimar Mehra, New Delhi, India. ✍️ BCA Graduate. Now pursuing MCA from IGNOU ( Indra Gandhi National Open University ) ✍️ Also Completed MDCE { Master Diploma in Computer Engineering } from IICS.
 
