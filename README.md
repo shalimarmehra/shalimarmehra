@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/shalimarmehra" target="blank"><img src="https://img.shields.io/twitter/follow/shalimarmehra?logo=twitter&style=for-the-badge" alt="shalimarmehra" /></a> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/shalimarmehra/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Follow-linkedin&logoColor=white" /></a> </p>
 
-- ✍️ I'm a Shalimar Mehra, New Delhi, India. ✍️ BCA Graduate. Now pursuing MCA from IGNOU ( Indra Gandhi National Open University ) ✍️ Also Completed MDCE { Master Diploma in Computer Engineering } from IICS.
+- Passionate Developer | Creative Content Creator | Tech Enthusiast Combining technical expertise with creative content creation to deliver innovative solutions and engaging tech stories. Always exploring the latest in technology and sharing insights with a growing community of tech enthusiasts. Let’s connect and collaborate on exciting tech projects!
 
 - 📫 How to reach me **shalimarmehra892@gmail.com**
 
