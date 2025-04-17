@@ -8,7 +8,7 @@
 
 - Passionate Developer | Creative Content Creator | Tech Enthusiast Combining technical expertise with creative content creation to deliver innovative solutions and engaging tech stories. Always exploring the latest in technology and sharing insights with a growing community of tech enthusiasts. Let’s connect and collaborate on exciting tech projects!
 
-- 📫 How to reach me **shalimarmehra892@gmail.com**
+- 📫 How to reach me **contact@shalimarmehra.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
