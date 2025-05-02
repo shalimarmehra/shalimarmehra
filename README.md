@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
-<p align="left"> <a href="https://twitter.com/shalimarmehra" target="blank"><img src="https://img.shields.io/twitter/follow/shalimarmehra?logo=twitter&style=for-the-badge" alt="shalimarmehra" /></a> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/shalimarmehra/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Follow-linkedin&logoColor=white" /></a> </p>
 
 - Passionate Developer | Creative Content Creator | Tech Enthusiast Combining technical expertise with creative content creation to deliver innovative solutions and engaging tech stories. Always exploring the latest in technology and sharing insights with a growing community of tech enthusiasts. Let’s connect and collaborate on exciting tech projects!
@@ -12,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shalimarmehra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shalimarmehra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shalimarmehra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalimar-mehra" height="30" width="40" /></a>
 <a href="https://instagram.com/shalimarmehra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shalimar_mehra" height="30" width="40" /></a>
 </p>
