@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalimarmehra)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shalimarmehra)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalimarmehra@outlook.com)
-[![Dev Dossier](https://img.shields.io/badge/Dev%20Dossier-302b63?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/devdossier)
+[![Dev Dossier](https://img.shields.io/badge/Dev%20Dossier-302b63?style=for-the-badge&logo=bookstack&logoColor=white)](https://devdossier.in)
 
 </div>
 
