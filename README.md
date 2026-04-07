@@ -1,10 +1,3 @@
-<div align="center">
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Shalimar%20Mehra&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Founder%20%26%20Lead%20Developer%20%40%20Dev%20Dossier&amp;descSize=18&amp;descAlignY=58&amp;descColor=a0a0ff&amp;animation=fadeIn" />
-</div>
-<div align="center">
-
-
 </div>
 
 <div align="center">
