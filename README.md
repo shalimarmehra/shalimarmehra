@@ -1,7 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shalimar%20Mehra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20Lead%20Developer%20%40%20Dev%20Dossier&descAlignY=55&descSize=18&descColor=a9a9d6" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120e1f,50:2a1b4d,100:e100ff&height=200&section=header&text=Shalimar%20Mehra&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <div align="center">
