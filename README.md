@@ -1,11 +1,19 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120e1f,50:2a1b4d,100:e100ff&height=200&section=header&text=Shalimar%20Mehra&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalimarmehra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shalimarmehra)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalimarmehra@outlook.com)
-[![Dev Dossier](https://img.shields.io/badge/Dev%20Dossier-302b63?style=for-the-badge&logo=bookstack&logoColor=white)](https://devdossier.in)
+  <a href="https://devdossier.in">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=E100FF&center=true&vCenter=true&width=600&lines=Founder+%26+Lead+Developer;Building+Dev+Dossier;Tech+Storyteller+%26+Creator;Full-Stack+Engineer" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalimarmehra)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devdossier)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalimarmehra@outlook.com)
+  [![Dev Dossier](https://img.shields.io/badge/Dev%20Dossier-302b63?style=for-the-badge&logo=bookstack&logoColor=white)](https://devdossier.in)
 
 </div>
 
