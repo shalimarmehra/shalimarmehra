@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120e1f,50:2a1b4d,100:e100ff&height=200&section=header&text=Shalimar%20Mehra&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shalimar%20Mehra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20Lead%20Developer%20%40%20Dev%20Dossier&descAlignY=55&descSize=18&descColor=a9a9d6" />
+
 </div>
 
 <div align="center">
@@ -124,7 +126,7 @@ const shalimar: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shalimarmehra&theme=radical&no-frame=false&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=shalimarmehra&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 
 </div>
 
