@@ -4,10 +4,6 @@
 
 <div align="center">
 
-  <a href="https://devdossier.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=E100FF&center=true&vCenter=true&width=600&lines=Founder+%26+Lead+Developer;Building+Dev+Dossier;Tech+Storyteller+%26+Creator;Full-Stack+Engineer" alt="Typing SVG" />
-  </a>
-
   <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalimarmehra)
