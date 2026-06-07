@@ -1,12 +1,10 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120e1f,50:2a1b4d,100:e100ff&height=200&section=header&text=Shalimar%20Mehra&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120e1f,50:2a1b4d,100:e100ff&height=220&section=header&text=Shalimar%20Mehra&fontSize=72&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Founder%20%26%20Lead%20Developer%20%40%20Dev%20Dossier&descSize=20&descAlignY=56&descColor=c084fc" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+Dev+Dossier+%F0%9F%8F%A2;Building+for+Developers%2C+by+Developers+%F0%9F%9B%A0%EF%B8%8F;Code+is+Craft.+Clarity+is+Power.+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=false&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+Dev+Dossier+%F0%9F%8F%A2;Building+for+Developers%2C+by+Developers+%F0%9F%9B%A0%EF%B8%8F;Code+is+Craft.+Clarity+is+Power.+%E2%9C%A8;Tech+Storyteller+%26+Content+Creator+%F0%9F%8E%99%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -109,24 +107,17 @@ const shalimar: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=9D4EDD"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=9D4EDD&icon_color=c084fc&text_color=ffffff&border_color=9D4EDD"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&theme=tokyonight&border_radius=12&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff&border_color=9D4EDD"/>
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shalimarmehra&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shalimarmehra&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+<img src="https://streak-stats.demolab.com?user=shalimarmehra&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD&sideLabels=9D4EDD&sideNums=ffffff&dates=a855f7" />
 
 </div>
 
@@ -136,9 +127,39 @@ const shalimar: Developer = {
 
 <div align="center">
 
-[![Shalimar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalimarmehra&theme=tokyo-night&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shalimar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalimarmehra&theme=tokyo-night&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=c084fc&area=true&area_color=9D4EDD&hide_border=false&border_color=9D4EDD&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+| 🎯 Achievement | 📋 Details |
+|:--------------|:-----------|
+| 🏢 **Founder** | Built & launched Dev Dossier — a developer-first content & tools platform |
+| 🌐 **Full-Stack** | End-to-end product development from UI design to backend architecture |
+| 📝 **Content Creator** | Making complex tech simple through blogs, guides & storytelling |
+| 🤝 **Community Builder** | Growing a passionate tech community at devdossier.in |
+| 🚀 **Shipped** | Multiple production-ready tools & apps used by real developers |
+| 🎓 **Educator** | Sharing knowledge through technical content that empowers builders |
+
+</div>
+
+---
+
+## ⚡ Quick Facts
+
+```yaml
+🌅 Morning routine:   Coffee + Code
+💡 Currently learning: System Design & Cloud Architecture
+🎮 Fun fact:          I debug faster with music on 🎧
+📚 Reading:           "Clean Architecture" by Robert C. Martin
+🌍 Time zone:         IST (UTC +5:30)
+🐾 Spirit animal:     The curious octopus 🐙 (multi-armed, multi-tasking)
+```
 
 ---
 
@@ -180,7 +201,7 @@ Whether you want to **collaborate on a project**, **talk tech**, or **explore De
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120e1f,50:2a1b4d,100:e100ff&height=130&section=footer&animation=fadeIn" />
 
 *"The best developers don't just write code — they tell stories with it."*
 
