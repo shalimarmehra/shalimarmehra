@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d0b14,2a0e3f,5c1380&height=200&section=header&text=Shalimar%20Mehra&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="./profile_banner_dark.png" width="100%" alt="Shalimar Mehra" />
+  <br/><br/>
+  <h1>Hi, I'm Shalimar 👋</h1>
+  <h3>Full-Stack Developer & Founder @ Dev Dossier</h3>
 </div>
 
 <div align="center">
@@ -22,22 +25,12 @@
 
 ---
 
-
 ## 🧠 About Me
 
-```typescript
-const shalimar: Developer = {
-  name:        "Shalimar Mehra",
-  role:        "Founder & Lead Developer",
-  company:     "Dev Dossier",
-  location:    "India 🇮🇳",
-  focus:       ["Full-Stack Development", "Content Creation", "Tech Storytelling"],
-  currentWork: "Building scalable products & developer-first experiences at Dev Dossier",
-  philosophy:  "Code is craft. Clarity is power. Community is everything.",
-  contact:     "shalimarmehra@outlook.com",
-  openTo:      ["Collaborations", "Open Source", "Tech Conversations"],
-};
-```
+I am a passionate Full-Stack Developer and the Founder of **Dev Dossier**, dedicated to crafting clean, scalable products and developer-first experiences. With a strong focus on system architecture, database optimization, and process automation, I love transforming complex engineering problems into intuitive, user-friendly products.
+
+### What Drives Me
+I believe that code is a craft and technology should empower builders. Whether it's designing highly responsive frontend interfaces, building robust backend APIs, or sharing knowledge through technical storytelling, my goal is to create products that make development faster and more accessible for everyone.
 
 ---
 
@@ -72,37 +65,141 @@ const shalimar: Developer = {
 
 <div align="center">
 
-### 💬 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=c084fc)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=c084fc)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c084fc)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=c084fc)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=c084fc)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=c084fc)
+<h4>Frontend Development</h4>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=c084fc)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=c084fc)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=c084fc)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=c084fc)
-![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=c084fc)
+<table align="center">
+  <tr>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+      <br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+      <br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+      <br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+      <br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+      <br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />
+      <br/>
+      <sub><b>Sass</b></sub>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=c084fc)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=c084fc)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=c084fc)
-![Oracle](https://img.shields.io/badge/Oracle-0d1117?style=for-the-badge&logo=oracle&logoColor=c084fc)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=c084fc)
+<h4>Backend Development</h4>
 
-### 🧰 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=c084fc)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=c084fc)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=c084fc)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=c084fc)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=c084fc)
+<table align="center">
+  <tr>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+      <br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+      <br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <br/>
+      <sub><b>C++</b></sub>
+    </td>
+  </tr>
+</table>
+
+<h4>Database & DevOps</h4>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      <br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+      <br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" />
+      <br/>
+      <sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+      <br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+      <br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+      <br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+      <br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+      <br/>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -122,22 +219,22 @@ const shalimar: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&bg_color=0f0c1b&title_color=c084fc&icon_color=c084fc&text_color=ffffff&border_color=2f1d4d"/>
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&include_all_commits=true&count_private=true&border_radius=8&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&border_color=30363d"/>
       </td>
       <td valign="top" width="15"></td>
       <td valign="top">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&border_radius=12&bg_color=0f0c1b&title_color=c084fc&text_color=ffffff&border_color=2f1d4d"/>
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&border_radius=8&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&border_color=30363d"/>
       </td>
     </tr>
   </table>
   <br/>
-  <img width="100%" src="https://streak-stats.demolab.com?user=shalimarmehra&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=0f0c1b&stroke=2f1d4d&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=ffffff&sideNums=ffffff&dates=c084fc" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=shalimarmehra&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=30363d&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=c9d1d9&sideNums=ffffff&dates=c084fc" />
 </div>
 
 ---
@@ -146,7 +243,7 @@ const shalimar: Developer = {
 
 <div align="center">
 
-[![Shalimar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalimarmehra&bg_color=0f0c1b&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=2f1d4d&hide_border=false&border_color=2f1d4d&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shalimar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalimarmehra&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=1f1235&hide_border=false&border_color=30363d&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -183,14 +280,68 @@ const shalimar: Developer = {
 ## 🌟 Featured Projects
 
 <div align="center">
-
-| 🚀 Project | 📖 Description | 🛠 Tech | 📈 Status |
-|:---|:---|:---|:---|
-| [**Dev Dossier Core**](https://devdossier.in) | Developer-first documentation & content platform | `React` `Node.js` `MongoDB` | `🟢 Active` |
-| **DevTools Suite** | Productivity tools built for developers by developers | `JavaScript` `Python` | `🚀 Completed` |
-| **API Workbench** | REST API testing & mocking environment | `Node.js` `Express` `MySQL` | `🟡 In Progress` |
-| **UI Component Kit** | Accessible, customizable component library | `React` `Sass` `Figma` | `🚀 Completed` |
-
+  <table width="100%">
+    <tr>
+      <!-- Project 1 -->
+      <td width="50%" valign="top">
+        <h3>📂 <a href="https://devdossier.in" target="_blank">Dev Dossier Core</a></h3>
+        <p><em>Developer Content & Storytelling Platform</em></p>
+        <p>A centralized publishing engine and developer community platform featuring markdown rendering and technical storytelling.</p>
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Optimized SEO structure increasing organic search rankings.</li>
+          <li>Built high-speed server-side rendering for article pages.</li>
+          <li>Grew community engagement metrics.</li>
+        </ul>
+        <hr/>
+        <p><strong>Tech Stack:</strong> <code>React</code>, <code>Node.js</code>, <code>MongoDB</code></p>
+      </td>
+      <!-- Project 2 -->
+      <td width="50%" valign="top">
+        <h3>🛠️ DevTools Suite</h3>
+        <p><em>Developer Productivity Tools</em></p>
+        <p>A collection of productivity tools built to simplify day-to-day coding processes and automation tasks.</p>
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Automated data transformations and regex validations.</li>
+          <li>Reduced dev environment setup friction.</li>
+          <li>Fully client-side operations ensuring data privacy.</li>
+        </ul>
+        <hr/>
+        <p><strong>Tech Stack:</strong> <code>JavaScript</code>, <code>Python</code></p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 3 -->
+      <td width="50%" valign="top">
+        <h3>📡 API Workbench</h3>
+        <p><em>REST API Testing & Mocking Environment</em></p>
+        <p>A lightweight mocking interface for creating, testing, and sharing REST API responses on the fly.</p>
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Streamlined parallel frontend & backend development.</li>
+          <li>Supported mock schemas with custom headers.</li>
+          <li>Simplified payload testing using sample data.</li>
+        </ul>
+        <hr/>
+        <p><strong>Tech Stack:</strong> <code>Node.js</code>, <code>Express</code>, <code>MySQL</code></p>
+      </td>
+      <!-- Project 4 -->
+      <td width="50%" valign="top">
+        <h3>🎨 UI Component Kit</h3>
+        <p><em>Accessible, Customizable Component Library</em></p>
+        <p>A highly accessible React design library built with compliance for screen readers and keyboard navigation.</p>
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Standardized UI colors and typography across projects.</li>
+          <li>W3C WCAG accessibility standards compliant.</li>
+          <li>Modular CSS-in-JS design for simple custom overlays.</li>
+        </ul>
+        <hr/>
+        <p><strong>Tech Stack:</strong> <code>React</code>, <code>Sass</code>, <code>Figma</code></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 > _More projects pinned below — check them out!_ ⬇️
@@ -201,16 +352,13 @@ const shalimar: Developer = {
 
 <div align="center">
 
-Whether you want to **collaborate on a project**, **talk tech**, or **explore Dev Dossier** together — my inbox is always open.
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 <br/>
 
-**✉️ shalimarmehra@outlook.com**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-121020?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=121020)](https://linkedin.com/in/shalimarmehra)
-[![Visit Dev Dossier](https://img.shields.io/badge/Visit_Dev_Dossier-121020?style=for-the-badge&logo=bookstack&logoColor=c084fc&labelColor=121020)](https://devdossier.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=0d1117)](https://linkedin.com/in/shalimarmehra)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d1117)](mailto:shalimarmehra@outlook.com)
+[![Visit Dev Dossier](https://img.shields.io/badge/Visit_Dev_Dossier-0d1117?style=for-the-badge&logo=bookstack&logoColor=c084fc&labelColor=0d1117)](https://devdossier.in)
 
 </div>
 
@@ -218,7 +366,7 @@ Whether you want to **collaborate on a project**, **talk tech**, or **explore De
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0d0b14,2a0e3f,5c1380&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0d1117,1a0f30&height=120&section=footer&animation=fadeIn" />
 
 *"The best developers don't just write code — they tell stories with it."*
 
