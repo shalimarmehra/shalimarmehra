@@ -232,7 +232,7 @@ I believe that code is a craft and technology should empower builders. Whether i
     </tr>
   </table>
   <br/>
-  <img width="100%" src="https://streak-stats.demolab.com?user=shalimarmehra&border_radius=8&background=0d1117&stroke=30363d&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=c9d1d9&sideNums=ffffff&dates=c084fc" />
+  <img width="100%" src="./profile/streak.svg" />
 </div>
 
 ---
