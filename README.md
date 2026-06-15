@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./profile_banner_dark.png" width="100%" alt="Shalimar Mehra" />
-  <br/><br/>
   <h1>Hi, I'm Shalimar 👋</h1>
   <h3>Full-Stack Developer & Founder @ Dev Dossier</h3>
 </div>
@@ -225,7 +223,7 @@ I believe that code is a craft and technology should empower builders. Whether i
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&include_all_commits=true&count_private=true&border_radius=8&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&border_color=30363d"/>
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&count_private=true&border_radius=8&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&border_color=30363d"/>
       </td>
       <td valign="top" width="15"></td>
       <td valign="top">
@@ -234,7 +232,7 @@ I believe that code is a craft and technology should empower builders. Whether i
     </tr>
   </table>
   <br/>
-  <img width="100%" src="https://streak-stats.demolab.com?user=shalimarmehra&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=30363d&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=c9d1d9&sideNums=ffffff&dates=c084fc" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=shalimarmehra&border_radius=8&background=0d1117&stroke=30363d&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=c9d1d9&sideNums=ffffff&dates=c084fc" />
 </div>
 
 ---
