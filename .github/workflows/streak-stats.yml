@@ -20,7 +20,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=shalimarmehra&background=0d1117&stroke=30363d&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=c9d1d9&sideNums=ffffff&dates=c084fc&border_radius=8
+          options: user=shalimarmehra&background=14130a&stroke=2f3d20&ring=758956&fire=8e633f&currStreakLabel=758956&currStreakNum=ffffff&sideLabels=d4c5b9&sideNums=ffffff&dates=8e633f&border_radius=8
           path: profile/streak.svg
           
       - name: Commit streak stats

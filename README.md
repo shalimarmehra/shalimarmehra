@@ -1,11 +1,12 @@
 <div align="center">
-  <h1>Hi, I'm Shalimar 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=14130a,2f3d20,758956&height=180&section=header&text=Shalimar%20Mehra&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+  <br/><br/>
   <h3>Full-Stack Developer & Founder @ Dev Dossier</h3>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=c084fc&center=true&vCenter=true&multiline=false&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+Dev+Dossier+%F0%9F%8F%A2;Building+for+Developers%2C+by+Developers+%F0%9F%9B%A0%EF%B8%8F;Code+is+Craft.+Clarity+is+Power.+%E2%9C%A8;Tech+Storyteller+%26+Content+Creator+%F0%9F%8E%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=758956&center=true&vCenter=true&multiline=false&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+Dev+Dossier+%F0%9F%8F%A2;Building+for+Developers%2C+by+Developers+%F0%9F%9B%A0%EF%B8%8F;Code+is+Craft.+Clarity+is+Power.+%E2%9C%A8;Tech+Storyteller+%26+Content+Creator+%F0%9F%8E%99%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,11 +14,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-121020?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=121020)](https://linkedin.com/in/shalimarmehra)
-[![Instagram](https://img.shields.io/badge/Instagram-121020?style=for-the-badge&logo=instagram&logoColor=c084fc&labelColor=121020)](https://instagram.com/shalimarmehra)
-[![Email](https://img.shields.io/badge/Email-121020?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=121020)](mailto:shalimarmehra@outlook.com)
-[![Dev Dossier](https://img.shields.io/badge/Dev_Dossier-121020?style=for-the-badge&logo=bookstack&logoColor=c084fc&labelColor=121020)](https://devdossier.in)
-[![Profile Views](https://komarev.com/ghpvc/?username=shalimarmehra&color=c084fc&style=for-the-badge&label=VIEWS&labelColor=121020)](https://github.com/shalimarmehra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14130a?style=for-the-badge&logo=linkedin&logoColor=758956&labelColor=14130a)](https://linkedin.com/in/shalimarmehra)
+[![Instagram](https://img.shields.io/badge/Instagram-14130a?style=for-the-badge&logo=instagram&logoColor=758956&labelColor=14130a)](https://instagram.com/shalimarmehra)
+[![Email](https://img.shields.io/badge/Email-14130a?style=for-the-badge&logo=gmail&logoColor=758956&labelColor=14130a)](mailto:shalimarmehra@outlook.com)
+[![Dev Dossier](https://img.shields.io/badge/Dev_Dossier-14130a?style=for-the-badge&logo=bookstack&logoColor=758956&labelColor=14130a)](https://devdossier.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=shalimarmehra&color=758956&style=for-the-badge&label=VIEWS&labelColor=14130a)](https://github.com/shalimarmehra)
 
 </div>
 
@@ -223,11 +224,11 @@ I believe that code is a craft and technology should empower builders. Whether i
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&count_private=true&border_radius=8&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&border_color=30363d"/>
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&count_private=true&border_radius=8&bg_color=14130a&title_color=758956&icon_color=758956&text_color=d4c5b9&border_color=2f3d20"/>
       </td>
       <td valign="top" width="15"></td>
       <td valign="top">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&border_radius=8&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&border_color=30363d"/>
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&border_radius=8&bg_color=14130a&title_color=758956&text_color=d4c5b9&border_color=2f3d20"/>
       </td>
     </tr>
   </table>
@@ -241,7 +242,7 @@ I believe that code is a craft and technology should empower builders. Whether i
 
 <div align="center">
 
-[![Shalimar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalimarmehra&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=1f1235&hide_border=false&border_color=30363d&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shalimar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalimarmehra&bg_color=14130a&color=758956&line=758956&point=8e633f&area=true&area_color=2f3d20&hide_border=false&border_color=2f3d20&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -354,9 +355,9 @@ I am always open to discussing new projects, creative ideas, or opportunities to
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=0d1117)](https://linkedin.com/in/shalimarmehra)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d1117)](mailto:shalimarmehra@outlook.com)
-[![Visit Dev Dossier](https://img.shields.io/badge/Visit_Dev_Dossier-0d1117?style=for-the-badge&logo=bookstack&logoColor=c084fc&labelColor=0d1117)](https://devdossier.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14130a?style=for-the-badge&logo=linkedin&logoColor=758956&labelColor=14130a)](https://linkedin.com/in/shalimarmehra)
+[![Email](https://img.shields.io/badge/Email-14130a?style=for-the-badge&logo=gmail&logoColor=758956&labelColor=14130a)](mailto:shalimarmehra@outlook.com)
+[![Visit Dev Dossier](https://img.shields.io/badge/Visit_Dev_Dossier-14130a?style=for-the-badge&logo=bookstack&logoColor=758956&labelColor=14130a)](https://devdossier.in)
 
 </div>
 
@@ -364,7 +365,7 @@ I am always open to discussing new projects, creative ideas, or opportunities to
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0d1117,1a0f30&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=14130a,2f3d20,758956&height=120&section=footer&animation=fadeIn" />
 
 *"The best developers don't just write code — they tell stories with it."*
 
