@@ -347,6 +347,46 @@ I believe that code is a craft and technology should empower builders. Whether i
 
 ---
 
+## 🎯 Current Focus & Interests
+
+```typescript
+const focus = {
+  currentRole: "Founder & Full-Stack Developer @ Dev Dossier",
+  experience:  ["Database Management", "API Design & Scaling", "Interactive UI Development"],
+  learning:    ["System Architecture", "Cloud Infrastructure (AWS/Docker)", "Advanced Process Automation"],
+  interests:   ["Web Development", "Database Optimization", "Technical Storytelling & Blogging"]
+};
+```
+
+---
+
+## 🚀 Beyond Code
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="25%" align="center" valign="top">
+        <h4>📸 Photography</h4>
+        <p>Capturing clean desk setups, nature landscapes, and telling visual stories.</p>
+      </td>
+      <td width="25%" align="center" valign="top">
+        <h4>📚 Reading</h4>
+        <p>Diving deep into engineering books like <em>Clean Architecture</em> and tech blogs.</p>
+      </td>
+      <td width="25%" align="center" valign="top">
+        <h4>🎧 Music & Flow</h4>
+        <p>Using lofi beats, ambient music, and film scores to find flow state while coding.</p>
+      </td>
+      <td width="25%" align="center" valign="top">
+        <h4>🛠️ Side Projects</h4>
+        <p>Continuously learning by designing and building helpful tools for developers.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
