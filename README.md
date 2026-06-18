@@ -1,348 +1,374 @@
-<!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120e1f,40:2a1b4d,100:e100ff&height=240&section=header&text=Shalimar%20Mehra&fontSize=76&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Founder%20%26%20Lead%20Developer%20%7C%20Dev%20Dossier&descSize=22&descAlignY=57&descColor=c084fc" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=11120d,565449,d8cfbc&height=180&section=header&text=Shalimar%20Mehra&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=fffbf4" />
+  <br/><br/>
+  <h3>Full-Stack Developer & Founder @ Dev Dossier</h3>
 </div>
 
-<!-- Animated Typing -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9D4EDD&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+Dev+Dossier+%F0%9F%8F%A2;Tech+Storyteller+%26+Content+Creator+%F0%9F%8E%99%EF%B8%8F;Building+for+Developers%2C+by+Developers+%F0%9F%9B%A0%EF%B8%8F;Code+is+Craft.+Clarity+is+Power.+%E2%9C%A8;Always+Shipping.+Always+Learning.+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<!-- Social Badges -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalimarmehra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shalimarmehra)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalimarmehra@outlook.com)
-[![Dev Dossier](https://img.shields.io/badge/Dev%20Dossier-9D4EDD?style=for-the-badge&logo=bookstack&logoColor=white)](https://devdossier.in)
-[![Profile Views](https://komarev.com/ghpvc/?username=shalimarmehra&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shalimarmehra)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=d8cfbc&center=true&vCenter=true&multiline=false&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+Dev+Dossier+%F0%9F%8F%A2;Building+for+Developers%2C+by+Developers+%F0%9F%9B%A0%EF%B8%8F;Code+is+Craft.+Clarity+is+Power.+%E2%9C%A8;Tech+Storyteller+%26+Content+Creator+%F0%9F%8E%99%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11120d?style=for-the-badge&logo=linkedin&logoColor=d8cfbc&labelColor=11120d)](https://linkedin.com/in/shalimarmehra)
+[![Instagram](https://img.shields.io/badge/Instagram-11120d?style=for-the-badge&logo=instagram&logoColor=d8cfbc&labelColor=11120d)](https://instagram.com/shalimarmehra)
+[![Email](https://img.shields.io/badge/Email-11120d?style=for-the-badge&logo=gmail&logoColor=d8cfbc&labelColor=11120d)](mailto:shalimarmehra@outlook.com)
+[![Dev Dossier](https://img.shields.io/badge/Dev_Dossier-11120d?style=for-the-badge&logo=bookstack&logoColor=d8cfbc&labelColor=11120d)](https://devdossier.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=shalimarmehra&color=d8cfbc&style=for-the-badge&label=VIEWS&labelColor=11120d)](https://github.com/shalimarmehra)
+
+</div>
 
 ---
 
-<!-- About Me -->
 ## 🧠 About Me
 
-```typescript
-const shalimar: Developer = {
-  name:         "Shalimar Mehra",
-  role:         "Founder & Lead Developer",
-  company:      "Dev Dossier",
-  location:     "India 🇮🇳",
-  timezone:     "IST — UTC +5:30 ☀️",
-  focus:        ["Full-Stack Development", "Content Creation", "Tech Storytelling"],
-  currentWork:  "Building scalable products & developer-first experiences at Dev Dossier",
-  learning:     ["System Design", "Cloud Architecture", "DevOps"],
-  philosophy:   "Code is craft. Clarity is power. Community is everything.",
-  contact:      "shalimarmehra@outlook.com",
-  openTo:       ["Collaborations", "Open Source", "Tech Conversations", "Mentorship"],
-  funFact:      "I debug faster with lo-fi music on 🎧",
-};
-```
+I am a passionate Full-Stack Developer and the Founder of **Dev Dossier**, dedicated to crafting clean, scalable products and developer-first experiences. With a strong focus on system architecture, database optimization, and process automation, I love transforming complex engineering problems into intuitive, user-friendly products.
+
+### What Drives Me
+I believe that code is a craft and technology should empower builders. Whether it's designing highly responsive frontend interfaces, building robust backend APIs, or sharing knowledge through technical storytelling, my goal is to create products that make development faster and more accessible for everyone.
 
 ---
 
-<!-- Currently Building -->
-## 🚧 Currently Building
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                   🔨  WORK IN PROGRESS                       ║
-╠══════════════════════════════════════════════════════════════╣
-║  🗂️  Dev Dossier Platform  →  Developer content & tooling   ║
-║  📡  API Workbench         →  REST testing & mocking suite  ║
-║  🎨  UI Component Kit      →  Accessible React library      ║
-║  📝  Tech Blog             →  In-depth developer guides     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<!-- Dev Dossier -->
 ## 🏢 Dev Dossier
 
-<div align="center">
-
-> **Dev Dossier** — where technology meets storytelling.
-> We craft developer tools, share technical insights, and build products that empower the next generation of builders.
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-**🔭 What We Build**
-- Developer-first tools & platforms
-- REST API testing environments
-- Accessible UI component libraries
-- Content management systems
-
-</td>
-<td width="50%">
-
-**🌱 What We Share**
-- In-depth technical blogs & guides
-- Open source projects & utilities
-- Community knowledge & mentorship
-- Tech storytelling & breakdowns
-
-</td>
-</tr>
-</table>
+> **Dev Dossier** is where technology meets storytelling. We craft developer tools, share technical insights, and build products that empower the next generation of builders.
 
 <div align="center">
-
-[![Visit Dev Dossier](https://img.shields.io/badge/🌐%20devdossier.in-9D4EDD?style=for-the-badge&logoColor=white)](https://devdossier.in)
-
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🛠️ What We Build</h4>
+        <ul>
+          <li><strong>Developer Tools</strong> built for speed, utility & clean developer experience.</li>
+          <li><strong>Tech Content</strong> making complex architectural concepts digestible.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h4>🚀 Our Mission</h4>
+        <ul>
+          <li><strong>Community First</strong> fostering a network of creative and passionate builders.</li>
+          <li><strong>Always Shipping</strong>, continuously learning, refining, and iterating.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**💬 Languages**
+<h4>Frontend Development</h4>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+      <br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+      <br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+      <br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+      <br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+      <br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />
+      <br/>
+      <sub><b>Sass</b></sub>
+    </td>
+  </tr>
+</table>
 
-**🎨 Frontend**
+<h4>Backend Development</h4>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+      <br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+      <br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <br/>
+      <sub><b>C++</b></sub>
+    </td>
+  </tr>
+</table>
 
-**⚙️ Backend & Databases**
+<h4>Database & DevOps</h4>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**🧰 Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table align="center">
+  <tr>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      <br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+      <br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" />
+      <br/>
+      <sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+      <br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+      <br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+      <br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+      <br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="96" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+      <br/>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<!-- Skills Proficiency -->
-## 📐 Skill Proficiency
-
-```text
-JavaScript / TypeScript  ████████████████████░░░  90%
-React / Next.js          ███████████████████░░░░░  85%
-Node.js / Express        ███████████████████░░░░░  85%
-Python                   ████████████████░░░░░░░░  70%
-MongoDB / MySQL          ████████████████░░░░░░░░  72%
-System Design            ████████████░░░░░░░░░░░░  55%  📈 Growing
-Cloud / DevOps           ██████████░░░░░░░░░░░░░░  45%  📈 Learning
-UI / UX Design (Figma)   ██████████████████░░░░░░  80%
-```
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&bg_color=0d1117&title_color=9D4EDD&icon_color=c084fc&text_color=e2e8f0&border_color=9D4EDD&ring_color=9D4EDD"/>
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&theme=tokyonight&border_radius=14&bg_color=0d1117&title_color=9D4EDD&text_color=e2e8f0&border_color=9D4EDD&langs_count=8"/>
-
-</div>
-
+<details>
+<summary><b>⚙️ System & Workspace Setup</b></summary>
 <br/>
 
+- **OS:** macOS (Apple Silicon)
+- **Editor:** VS Code (Custom Obsidian Theme & customized workspace settings)
+- **Terminal:** Warp with Starship Prompt & Oh-My-Zsh (Agnoster/Pure theme)
+- **Key Extensions:** Prettier, ESLint, GitLens, GitHub Copilot, Docker, Live Share
+- **Hardware Setup:** 14" MacBook Pro M-series + Dual Monitor setup for efficient window tiling
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shalimarmehra&theme=tokyonight&border_radius=14&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD&sideLabels=9D4EDD&sideNums=ffffff&dates=a855f7" />
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&count_private=true&border_radius=8&bg_color=11120d&title_color=d8cfbc&icon_color=d8cfbc&text_color=fffbf4&border_color=565449"/>
+      </td>
+      <td valign="top" width="15"></td>
+      <td valign="top">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&border_radius=8&bg_color=11120d&title_color=d8cfbc&text_color=fffbf4&border_color=565449"/>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img width="100%" src="./profile/streak.svg" />
 </div>
 
 ---
 
-<!-- Contribution Graph -->
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Shalimar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalimarmehra&theme=tokyo-night&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=c084fc&area=true&area_color=2a1b4d&hide_border=false&border_color=9D4EDD&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shalimar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalimarmehra&bg_color=11120d&color=d8cfbc&line=d8cfbc&point=fffbf4&area=true&area_color=565449&hide_border=false&border_color=565449&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- Achievements -->
 ## 🏆 Achievements & Highlights
 
 <div align="center">
 
-| 🎯 | Achievement | 📋 Details |
-|:--:|:-----------|:-----------|
-| 🏢 | **Founder** | Built & launched Dev Dossier — a developer-first content & tools platform |
-| 🌐 | **Full-Stack Engineer** | End-to-end product development from UI design to backend architecture |
-| 📝 | **Content Creator** | Making complex tech simple through blogs, guides & visual storytelling |
-| 🤝 | **Community Builder** | Growing a passionate tech community at [devdossier.in](https://devdossier.in) |
-| 🚀 | **Product Shipper** | Multiple production-ready tools & apps used by real developers |
-| 🎓 | **Tech Educator** | Sharing knowledge through technical content that empowers builders |
-| 🎨 | **Designer** | Crafting clean, accessible UI/UX with Figma & component-driven design |
-| 🔍 | **Problem Solver** | Turning complex real-world pain points into elegant developer solutions |
+| 🎯 Achievement | 📋 Details |
+|:---|:---|
+| 🏢 **Founder** | Built & launched Dev Dossier — a developer-first content & tools platform |
+| 🌐 **Full-Stack** | End-to-end product development from UI design to backend architecture |
+| 📝 **Content Creator** | Making complex tech simple through blogs, guides & storytelling |
+| 🤝 **Community Builder** | Growing a passionate tech community at devdossier.in |
+| 🚀 **Shipped** | Multiple production-ready tools & apps used by real developers |
+| 🎓 **Educator** | Sharing knowledge through technical content that empowers builders |
 
 </div>
 
 ---
 
-<!-- Quick Facts -->
 ## ⚡ Quick Facts
 
-```yaml
-name:             Shalimar Mehra
-pronouns:         He / Him
-location:         India 🇮🇳
-timezone:         IST (UTC +5:30)
-morning_routine:  Coffee ☕ → Emails → Code
-current_read:     "Clean Architecture" — Robert C. Martin
-currently_into:   System Design, Cloud Architecture, Developer Tooling
-fun_fact:         I debug 40% faster with lo-fi music on 🎧
-spirit_animal:    The curious octopus 🐙 — multi-armed, multi-tasking
-superpower:       Turning "why doesn't this work?" into "shipped ✅"
-philosophy:       "Code is craft. Clarity is power. Community is everything."
-```
+- 🌅 **Morning routine:** Coffee + Code ☕
+- 💡 **Currently learning:** System Design & Cloud Architecture 🏗️
+- 🎮 **Fun fact:** I debug faster with music on 🎧
+- 📚 **Reading:** *Clean Architecture* by Robert C. Martin 📖
+- 🌍 **Time zone:** IST (UTC +5:30) 🇮🇳
+- 🐾 **Spirit animal:** The curious octopus 🐙 (multi-armed, multi-tasking)
 
 ---
 
-<!-- Featured Projects -->
 ## 🌟 Featured Projects
 
 <div align="center">
-
-| 🚀 Project | 📖 Description | 🛠 Stack | 🔗 |
-|:-----------|:--------------|:---------|:---|
-| 🗂️ **Dev Dossier Core** | Developer-first docs & content platform | React, Node.js, MongoDB | [🌐 Live](https://devdossier.in) |
-| 🛠️ **DevTools Suite** | Productivity tools built for devs by devs | JavaScript, Python | Coming Soon |
-| 📡 **API Workbench** | REST API testing & mocking environment | Node.js, Express, MySQL | Coming Soon |
-| 🎨 **UI Component Kit** | Accessible, customizable React component lib | React, Sass, Figma | Coming Soon |
-
+  <table width="100%">
+    <tr>
+      <!-- Project 1 -->
+      <td width="50%" valign="top">
+        <h3>📂 <a href="https://devdossier.in" target="_blank">Dev Dossier Core</a></h3>
+        <p><em>Developer Content & Storytelling Platform</em></p>
+        <p>A centralized publishing engine and developer community platform featuring markdown rendering and technical storytelling.</p>
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Optimized SEO structure increasing organic search rankings.</li>
+          <li>Built high-speed server-side rendering for article pages.</li>
+          <li>Grew community engagement metrics.</li>
+        </ul>
+        <hr/>
+        <p><strong>Tech Stack:</strong> <code>React</code>, <code>Node.js</code>, <code>MongoDB</code></p>
+      </td>
+      <!-- Project 2 -->
+      <td width="50%" valign="top">
+        <h3>🛠️ DevTools Suite</h3>
+        <p><em>Developer Productivity Tools</em></p>
+        <p>A collection of productivity tools built to simplify day-to-day coding processes and automation tasks.</p>
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Automated data transformations and regex validations.</li>
+          <li>Reduced dev environment setup friction.</li>
+          <li>Fully client-side operations ensuring data privacy.</li>
+        </ul>
+        <hr/>
+        <p><strong>Tech Stack:</strong> <code>JavaScript</code>, <code>Python</code></p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 3 -->
+      <td width="50%" valign="top">
+        <h3>📡 API Workbench</h3>
+        <p><em>REST API Testing & Mocking Environment</em></p>
+        <p>A lightweight mocking interface for creating, testing, and sharing REST API responses on the fly.</p>
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Streamlined parallel frontend & backend development.</li>
+          <li>Supported mock schemas with custom headers.</li>
+          <li>Simplified payload testing using sample data.</li>
+        </ul>
+        <hr/>
+        <p><strong>Tech Stack:</strong> <code>Node.js</code>, <code>Express</code>, <code>MySQL</code></p>
+      </td>
+      <!-- Project 4 -->
+      <td width="50%" valign="top">
+        <h3>🎨 UI Component Kit</h3>
+        <p><em>Accessible, Customizable Component Library</em></p>
+        <p>A highly accessible React design library built with compliance for screen readers and keyboard navigation.</p>
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Standardized UI colors and typography across projects.</li>
+          <li>W3C WCAG accessibility standards compliant.</li>
+          <li>Modular CSS-in-JS design for simple custom overlays.</li>
+        </ul>
+        <hr/>
+        <p><strong>Tech Stack:</strong> <code>React</code>, <code>Sass</code>, <code>Figma</code></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-> 💡 _Check pinned repositories below for the full showcase!_ ⬇️
+> _More projects pinned below — check them out!_ ⬇️
 
 ---
 
-<!-- What I'm Reading / Learning -->
-## 📚 What I'm Into Right Now
-
-<table align="center" width="100%">
-<tr>
-<td width="33%" align="center">
-
-**📖 Reading**
-```
-Clean Architecture
-— Robert C. Martin
-
-The Pragmatic Programmer
-— Hunt & Thomas
-```
-
-</td>
-<td width="33%" align="center">
-
-**🎯 Learning**
-```
-→ System Design
-→ Cloud Architecture (AWS)
-→ DevOps & CI/CD
-→ Microservices patterns
-```
-
-</td>
-<td width="33%" align="center">
-
-**🎧 Coding Playlist**
-```
-Lo-Fi Hip Hop
-Study Beats
-Synthwave
-Ambient Focus
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Let's Connect -->
 ## 📬 Let's Connect
 
 <div align="center">
 
-Whether you want to **collaborate on a project**, **talk tech**, **explore Dev Dossier**, or just have a good developer chat — my inbox is always open.
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 <br/>
 
-| 📌 Platform | 🔗 Link |
-|:-----------|:--------|
-| 💼 LinkedIn | [linkedin.com/in/shalimarmehra](https://linkedin.com/in/shalimarmehra) |
-| 📸 Instagram | [instagram.com/shalimarmehra](https://instagram.com/shalimarmehra) |
-| 🌐 Dev Dossier | [devdossier.in](https://devdossier.in) |
-| ✉️ Email | [shalimarmehra@outlook.com](mailto:shalimarmehra@outlook.com) |
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalimarmehra)
-[![Dev Dossier](https://img.shields.io/badge/Visit%20Dev%20Dossier-9D4EDD?style=for-the-badge&logo=bookstack&logoColor=white)](https://devdossier.in)
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalimarmehra@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11120d?style=for-the-badge&logo=linkedin&logoColor=d8cfbc&labelColor=11120d)](https://linkedin.com/in/shalimarmehra)
+[![Email](https://img.shields.io/badge/Email-11120d?style=for-the-badge&logo=gmail&logoColor=d8cfbc&labelColor=11120d)](mailto:shalimarmehra@outlook.com)
+[![Visit Dev Dossier](https://img.shields.io/badge/Visit_Dev_Dossier-11120d?style=for-the-badge&logo=bookstack&logoColor=d8cfbc&labelColor=11120d)](https://devdossier.in)
 
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120e1f,40:2a1b4d,100:e100ff&height=140&section=footer&animation=fadeIn" />
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=11120d,565449,d8cfbc&height=120&section=footer&animation=fadeIn" />
 
 *"The best developers don't just write code — they tell stories with it."*
 
-**— Shalimar Mehra &nbsp;|&nbsp; Dev Dossier**
-
-<br/>
-
-![](https://img.shields.io/badge/Made%20with-❤️%20%26%20lots%20of%20☕-9D4EDD?style=flat-square)
+**— Shalimar Mehra, Dev Dossier**
 
 </div>
