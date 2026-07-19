@@ -37,17 +37,19 @@ I believe that code is a craft and technology should empower builders. Whether i
 
 > **Dev Dossier** is where technology meets storytelling. We craft developer tools, share technical insights, and build products that empower the next generation of builders.
 
+<br/>
+
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="border: 1px solid #565449; border-radius: 8px; padding: 15px;">
         <h4>🛠️ What We Build</h4>
         <ul>
           <li><strong>Developer Tools</strong> built for speed, utility & clean developer experience.</li>
           <li><strong>Tech Content</strong> making complex architectural concepts digestible.</li>
         </ul>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="border: 1px solid #565449; border-radius: 8px; padding: 15px;">
         <h4>🚀 Our Mission</h4>
         <ul>
           <li><strong>Community First</strong> fostering a network of creative and passionate builders.</li>
@@ -64,138 +66,42 @@ I believe that code is a craft and technology should empower builders. Whether i
 
 <div align="center">
 
-<h4>Frontend Development</h4>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br/>
-      <sub><b>React</b></sub>
+    <td valign="top" width="33%">
+      <h4 align="center">🌐 Frontend</h4>
+      <p align="center">
+        <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-11120d?style=flat-square&logo=react&logoColor=d8cfbc" alt="React" /></a>
+        <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-11120d?style=flat-square&logo=next.js&logoColor=d8cfbc" alt="Next.js" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-11120d?style=flat-square&logo=javascript&logoColor=d8cfbc" alt="JavaScript" /></a>
+        <br/>
+        <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-11120d?style=flat-square&logo=typescript&logoColor=d8cfbc" alt="TypeScript" /></a>
+        <a href="https://sass-lang.com" target="_blank"><img src="https://img.shields.io/badge/Sass-11120d?style=flat-square&logo=sass&logoColor=d8cfbc" alt="Sass" /></a>
+        <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-11120d?style=flat-square&logo=bootstrap&logoColor=d8cfbc" alt="Bootstrap" /></a>
+      </p>
     </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-      <br/>
-      <sub><b>Next.js</b></sub>
+    <td valign="top" width="33%">
+      <h4 align="center">⚙️ Backend</h4>
+      <p align="center">
+        <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-11120d?style=flat-square&logo=node.js&logoColor=d8cfbc" alt="Node.js" /></a>
+        <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express-11120d?style=flat-square&logo=express&logoColor=d8cfbc" alt="Express" /></a>
+        <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-11120d?style=flat-square&logo=python&logoColor=d8cfbc" alt="Python" /></a>
+        <br/>
+        <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-11120d?style=flat-square&logo=openjdk&logoColor=d8cfbc" alt="Java" /></a>
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-11120d?style=flat-square&logo=cplusplus&logoColor=d8cfbc" alt="C++" /></a>
+      </p>
     </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      <br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-      <br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-      <br/>
-      <sub><b>Bootstrap</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />
-      <br/>
-      <sub><b>Sass</b></sub>
-    </td>
-  </tr>
-</table>
-
-<h4>Backend Development</h4>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-      <br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-      <br/>
-      <sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br/>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-      <br/>
-      <sub><b>C</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      <br/>
-      <sub><b>C++</b></sub>
-    </td>
-  </tr>
-</table>
-
-<h4>Database & DevOps</h4>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-      <br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-      <br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" />
-      <br/>
-      <sub><b>SQL Server</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-      <br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-      <br/>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
-      <br/>
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-      <br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="96" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-      <br/>
-      <sub><b>Linux</b></sub>
+    <td valign="top" width="33%">
+      <h4 align="center">🗄️ Database & DevOps</h4>
+      <p align="center">
+        <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-11120d?style=flat-square&logo=mongodb&logoColor=d8cfbc" alt="MongoDB" /></a>
+        <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-11120d?style=flat-square&logo=mysql&logoColor=d8cfbc" alt="MySQL" /></a>
+        <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-11120d?style=flat-square&logo=microsoft-sql-server&logoColor=d8cfbc" alt="SQL Server" /></a>
+        <br/>
+        <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-11120d?style=flat-square&logo=git&logoColor=d8cfbc" alt="Git" /></a>
+        <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-11120d?style=flat-square&logo=github&logoColor=d8cfbc" alt="GitHub" /></a>
+        <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-11120d?style=flat-square&logo=figma&logoColor=d8cfbc" alt="Figma" /></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -204,17 +110,72 @@ I believe that code is a craft and technology should empower builders. Whether i
 
 ---
 
-<details>
-<summary><b>⚙️ System & Workspace Setup</b></summary>
-<br/>
+## 🌟 Featured Projects
 
-- **OS:** macOS (Apple Silicon)
-- **Editor:** VS Code (Custom Obsidian Theme & customized workspace settings)
-- **Terminal:** Warp with Starship Prompt & Oh-My-Zsh (Agnoster/Pure theme)
-- **Key Extensions:** Prettier, ESLint, GitLens, GitHub Copilot, Docker, Live Share
-- **Hardware Setup:** 14" MacBook Pro M-series + Dual Monitor setup for efficient window tiling
-
-</details>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <!-- Project 1 -->
+      <td width="50%" valign="top" style="border: 1px solid #565449; border-radius: 8px; padding: 15px;">
+        <h3>📂 <a href="https://devdossier.in" target="_blank">Dev Dossier Core</a></h3>
+        <p><em>Developer Content & Storytelling Platform</em></p>
+        <p>A centralized publishing engine and developer community platform featuring markdown rendering and technical storytelling.</p>
+        <hr style="border: 0; border-top: 1px solid #565449;" />
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Optimized SEO structure increasing organic search rankings.</li>
+          <li>Built high-speed server-side rendering for article pages.</li>
+        </ul>
+        <hr style="border: 0; border-top: 1px solid #565449;" />
+        <p><strong>Tech Stack:</strong> <img src="https://img.shields.io/badge/React-11120d?style=flat-square&logo=react&logoColor=d8cfbc" /> <img src="https://img.shields.io/badge/Node.js-11120d?style=flat-square&logo=node.js&logoColor=d8cfbc" /> <img src="https://img.shields.io/badge/MongoDB-11120d?style=flat-square&logo=mongodb&logoColor=d8cfbc" /></p>
+      </td>
+      <!-- Project 2 -->
+      <td width="50%" valign="top" style="border: 1px solid #565449; border-radius: 8px; padding: 15px;">
+        <h3>🛠️ DevTools Suite</h3>
+        <p><em>Developer Productivity Tools</em></p>
+        <p>A collection of productivity tools built to simplify day-to-day coding processes and automation tasks.</p>
+        <hr style="border: 0; border-top: 1px solid #565449;" />
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Automated data transformations and regex validations.</li>
+          <li>Reduced dev environment setup friction.</li>
+        </ul>
+        <hr style="border: 0; border-top: 1px solid #565449;" />
+        <p><strong>Tech Stack:</strong> <img src="https://img.shields.io/badge/JavaScript-11120d?style=flat-square&logo=javascript&logoColor=d8cfbc" /> <img src="https://img.shields.io/badge/Python-11120d?style=flat-square&logo=python&logoColor=d8cfbc" /></p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 3 -->
+      <td width="50%" valign="top" style="border: 1px solid #565449; border-radius: 8px; padding: 15px;">
+        <h3>📡 API Workbench</h3>
+        <p><em>REST API Testing & Mocking Environment</em></p>
+        <p>A lightweight mocking interface for creating, testing, and sharing REST API responses on the fly.</p>
+        <hr style="border: 0; border-top: 1px solid #565449;" />
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Streamlined parallel frontend & backend development.</li>
+          <li>Supported mock schemas with custom headers.</li>
+        </ul>
+        <hr style="border: 0; border-top: 1px solid #565449;" />
+        <p><strong>Tech Stack:</strong> <img src="https://img.shields.io/badge/Node.js-11120d?style=flat-square&logo=node.js&logoColor=d8cfbc" /> <img src="https://img.shields.io/badge/Express-11120d?style=flat-square&logo=express&logoColor=d8cfbc" /> <img src="https://img.shields.io/badge/MySQL-11120d?style=flat-square&logo=mysql&logoColor=d8cfbc" /></p>
+      </td>
+      <!-- Project 4 -->
+      <td width="50%" valign="top" style="border: 1px solid #565449; border-radius: 8px; padding: 15px;">
+        <h3>🎨 UI Component Kit</h3>
+        <p><em>Accessible, Customizable Component Library</em></p>
+        <p>A highly accessible React design library built with compliance for screen readers and keyboard navigation.</p>
+        <hr style="border: 0; border-top: 1px solid #565449;" />
+        <p><strong>Impact:</strong></p>
+        <ul>
+          <li>Standardized UI colors and typography across projects.</li>
+          <li>W3C WCAG accessibility standards compliant.</li>
+        </ul>
+        <hr style="border: 0; border-top: 1px solid #565449;" />
+        <p><strong>Tech Stack:</strong> <img src="https://img.shields.io/badge/React-11120d?style=flat-square&logo=react&logoColor=d8cfbc" /> <img src="https://img.shields.io/badge/Sass-11120d?style=flat-square&logo=sass&logoColor=d8cfbc" /> <img src="https://img.shields.io/badge/Figma-11120d?style=flat-square&logo=figma&logoColor=d8cfbc" /></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -248,7 +209,22 @@ I believe that code is a craft and technology should empower builders. Whether i
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🎯 Current Focus & Interests
+
+```typescript
+const focus = {
+  currentRole: "Founder & Full-Stack Developer @ Dev Dossier",
+  experience:  ["Database Management", "API Design & Scaling", "Interactive UI Development"],
+  learning:    ["System Architecture", "Cloud Infrastructure (AWS/Docker)", "Advanced Process Automation"],
+  interests:   ["Web Development", "Database Optimization", "Technical Storytelling & Blogging"]
+};
+```
+
+---
+
+<details>
+<summary><b>🏆 Achievements & Highlights</b></summary>
+<br/>
 
 <div align="center">
 
@@ -263,9 +239,11 @@ I believe that code is a craft and technology should empower builders. Whether i
 
 </div>
 
----
+</details>
 
-## ⚡ Quick Facts
+<details>
+<summary><b>⚡ Quick Facts</b></summary>
+<br/>
 
 - 🌅 **Morning routine:** Coffee + Code ☕
 - 💡 **Currently learning:** System Design & Cloud Architecture 🏗️
@@ -274,93 +252,23 @@ I believe that code is a craft and technology should empower builders. Whether i
 - 🌍 **Time zone:** IST (UTC +5:30) 🇮🇳
 - 🐾 **Spirit animal:** The curious octopus 🐙 (multi-armed, multi-tasking)
 
----
+</details>
 
-## 🌟 Featured Projects
+<details>
+<summary><b>⚙️ System & Workspace Setup</b></summary>
+<br/>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <!-- Project 1 -->
-      <td width="50%" valign="top">
-        <h3>📂 <a href="https://devdossier.in" target="_blank">Dev Dossier Core</a></h3>
-        <p><em>Developer Content & Storytelling Platform</em></p>
-        <p>A centralized publishing engine and developer community platform featuring markdown rendering and technical storytelling.</p>
-        <p><strong>Impact:</strong></p>
-        <ul>
-          <li>Optimized SEO structure increasing organic search rankings.</li>
-          <li>Built high-speed server-side rendering for article pages.</li>
-          <li>Grew community engagement metrics.</li>
-        </ul>
-        <hr/>
-        <p><strong>Tech Stack:</strong> <code>React</code>, <code>Node.js</code>, <code>MongoDB</code></p>
-      </td>
-      <!-- Project 2 -->
-      <td width="50%" valign="top">
-        <h3>🛠️ DevTools Suite</h3>
-        <p><em>Developer Productivity Tools</em></p>
-        <p>A collection of productivity tools built to simplify day-to-day coding processes and automation tasks.</p>
-        <p><strong>Impact:</strong></p>
-        <ul>
-          <li>Automated data transformations and regex validations.</li>
-          <li>Reduced dev environment setup friction.</li>
-          <li>Fully client-side operations ensuring data privacy.</li>
-        </ul>
-        <hr/>
-        <p><strong>Tech Stack:</strong> <code>JavaScript</code>, <code>Python</code></p>
-      </td>
-    </tr>
-    <tr>
-      <!-- Project 3 -->
-      <td width="50%" valign="top">
-        <h3>📡 API Workbench</h3>
-        <p><em>REST API Testing & Mocking Environment</em></p>
-        <p>A lightweight mocking interface for creating, testing, and sharing REST API responses on the fly.</p>
-        <p><strong>Impact:</strong></p>
-        <ul>
-          <li>Streamlined parallel frontend & backend development.</li>
-          <li>Supported mock schemas with custom headers.</li>
-          <li>Simplified payload testing using sample data.</li>
-        </ul>
-        <hr/>
-        <p><strong>Tech Stack:</strong> <code>Node.js</code>, <code>Express</code>, <code>MySQL</code></p>
-      </td>
-      <!-- Project 4 -->
-      <td width="50%" valign="top">
-        <h3>🎨 UI Component Kit</h3>
-        <p><em>Accessible, Customizable Component Library</em></p>
-        <p>A highly accessible React design library built with compliance for screen readers and keyboard navigation.</p>
-        <p><strong>Impact:</strong></p>
-        <ul>
-          <li>Standardized UI colors and typography across projects.</li>
-          <li>W3C WCAG accessibility standards compliant.</li>
-          <li>Modular CSS-in-JS design for simple custom overlays.</li>
-        </ul>
-        <hr/>
-        <p><strong>Tech Stack:</strong> <code>React</code>, <code>Sass</code>, <code>Figma</code></p>
-      </td>
-    </tr>
-  </table>
-</div>
+- **OS:** macOS (Apple Silicon)
+- **Editor:** VS Code (Custom Obsidian Theme & customized workspace settings)
+- **Terminal:** Warp with Starship Prompt & Oh-My-Zsh (Agnoster/Pure theme)
+- **Key Extensions:** Prettier, ESLint, GitLens, GitHub Copilot, Docker, Live Share
+- **Hardware Setup:** 14" MacBook Pro M-series + Dual Monitor setup for efficient window tiling
 
-> _More projects pinned below — check them out!_ ⬇️
+</details>
 
----
-
-## 🎯 Current Focus & Interests
-
-```typescript
-const focus = {
-  currentRole: "Founder & Full-Stack Developer @ Dev Dossier",
-  experience:  ["Database Management", "API Design & Scaling", "Interactive UI Development"],
-  learning:    ["System Architecture", "Cloud Infrastructure (AWS/Docker)", "Advanced Process Automation"],
-  interests:   ["Web Development", "Database Optimization", "Technical Storytelling & Blogging"]
-};
-```
-
----
-
-## 🚀 Beyond Code
+<details>
+<summary><b>🚀 Beyond Code</b></summary>
+<br/>
 
 <div align="center">
   <table width="100%">
@@ -384,6 +292,8 @@ const focus = {
     </tr>
   </table>
 </div>
+
+</details>
 
 ---
 
