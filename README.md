@@ -185,11 +185,11 @@ I believe that code is a craft and technology should empower builders. Whether i
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shalimarmehra&show_icons=true&count_private=true&border_radius=8&bg_color=11120d&title_color=d8cfbc&icon_color=d8cfbc&text_color=fffbf4&border_color=565449"/>
+        <img height="185em" src="https://github-stats-extended.vercel.app/api?username=shalimarmehra&show_icons=true&count_private=true&border_radius=8&bg_color=11120d&title_color=d8cfbc&icon_color=d8cfbc&text_color=fffbf4&border_color=565449"/>
       </td>
       <td valign="top" width="15"></td>
       <td valign="top">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&border_radius=8&bg_color=11120d&title_color=d8cfbc&text_color=fffbf4&border_color=565449"/>
+        <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shalimarmehra&layout=compact&border_radius=8&bg_color=11120d&title_color=d8cfbc&text_color=fffbf4&border_color=565449"/>
       </td>
     </tr>
   </table>
